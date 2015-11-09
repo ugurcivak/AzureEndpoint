@@ -1,0 +1,1 @@
+Bu dosya MaestroPanel için Azure üzerindeki Portlarý yapýlandýrýr.
